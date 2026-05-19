@@ -1,5 +1,6 @@
 import Hero from './components/Hero'
 import Sobre from './components/Sobre'
+import PerfilPlataformas from './components/PerfilPlataformas'
 import Servicos from './components/Servicos'
 import Diferenciais from './components/Diferenciais'
 import Veiculo from './components/Veiculo'
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <main className="mx-auto flex w-full max-w-6xl flex-col gap-6 px-4 pb-8 md:px-8">
         <Sobre />
+        <PerfilPlataformas />
         <Servicos />
         <Diferenciais />
         <Veiculo />

@@ -1,8 +1,8 @@
 import { CarFront, Wind, CalendarRange, Sofa } from 'lucide-react'
 
 const infos = [
-  { icon: CarFront, label: 'Modelo: Byd dolphin' },
-  { icon: CalendarRange, label: 'Ano: 2023' },
+  { icon: CarFront, label: 'Modelo: BYD Dolphin GS' },
+  { icon: CalendarRange, label: 'Ano: 2025' },
   { icon: Wind, label: 'Ar-condicionado' },
   { icon: Sofa, label: 'Bancos confortaveis' },
 ]
