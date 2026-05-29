@@ -1,6 +1,6 @@
 import { MessageCircle } from 'lucide-react'
 
-const whatsappLink = 'https://wa.me/5511951748978'
+const whatsappLink = 'https://wa.me/5511999999999'
 
 function CTA() {
   return (

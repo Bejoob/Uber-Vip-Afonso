@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { Crown, MessageCircle } from 'lucide-react'
 
-const whatsappLink = 'https://wa.me/5511951748978'
+const whatsappLink = 'https://wa.me/5511999999999'
 
 function Hero() {
   return (
